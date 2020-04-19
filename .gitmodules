@@ -1,0 +1,3 @@
+[submodule "bottom-up-features"]
+	path = bottom-up-features
+	url = git@github.com:violetteshev/bottom-up-features.git
